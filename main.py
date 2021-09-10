@@ -25,12 +25,16 @@ browser.find_element_by_xpath('/html/body/div[4]/div/div/button[1]').click()
 numberPosts = browser.find_element_by_xpath('//*[@id="react-root"]/section/main/div/header/section/ul/li[1]/a/span').text
 numberFollowers = browser.find_element_by_xpath('//*[@id="react-root"]/section/main/div/header/section/ul/li[2]/a/span').text
 
-browser.get(browser.find_element_by_xpath('//*[@id="react-root"]/section/main/div/div[3]/article/div[1]/div/div[1]/div[1]/a').get_attribute('href'))
+new_page = browser.find_element_by_xpath('//*[@id="react-root"]/section/main/div/div[3]/article/div[1]/div/div[1]/div[1]/a').get_attribute('href')
+#browser.close()
+
+browser.get(new_page)
 numberLikesLastPhoto = browser.find_element_by_xpath('//*[@id="react-root"]/section/main/div/div[1]/article/div[3]/section[2]/div/div/a/span').text
+
+browser.close()
 
 print("Number of Followers: "+numberFollowers)
 print("Number of Posts: "+numberPosts)
 
 print("Number of Likes last photo: "+numberLikesLastPhoto)
 
-browser.close()
