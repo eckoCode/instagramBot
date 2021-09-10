@@ -33,4 +33,4 @@ print("Number of Posts: "+numberPosts)
 
 print("Number of Likes last photo: "+numberLikesLastPhoto)
 
-browser.close();
+browser.close()
