@@ -1,0 +1,499 @@
+1631306493332	geckodriver	INFO	Listening on 127.0.0.1:58033
+1631306493337	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofilewzdJyZ"
+Error: no DISPLAY environment variable specified
+1631306551559	geckodriver	INFO	Listening on 127.0.0.1:36031
+1631306551563	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofileN36KQ3"
+Error: no DISPLAY environment variable specified
+1631306583482	geckodriver	INFO	Listening on 127.0.0.1:49415
+1631306583487	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofileoGlEYp"
+Error: no DISPLAY environment variable specified
+1631306951944	geckodriver	INFO	Listening on 127.0.0.1:39341
+1631306951948	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofile3mdTdq"
+Error: no DISPLAY environment variable specified
+1631306986895	geckodriver	INFO	Listening on 127.0.0.1:60681
+1631306986900	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofilePEDVTY"
+Error: no DISPLAY environment variable specified
+1631308023552	geckodriver	INFO	Listening on 127.0.0.1:41333
+1631308024579	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofileTGbFuo"
+[GFX1-]: glxtest: libEGL missing
+1631308027062	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileTGbFuo/search.json.mozlz4", (void 0)))
+1631308029464	Marionette	INFO	Listening on port 46675
+1631308029591	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1631308080740	Marionette	INFO	Stopped listening on port 46675
+JavaScript error: resource:///modules/Interactions.jsm, line 230: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+1631308095629	geckodriver	INFO	Listening on 127.0.0.1:36301
+1631308095641	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofileCpyhAH"
+[GFX1-]: glxtest: libEGL missing
+1631308098243	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileCpyhAH/search.json.mozlz4", (void 0)))
+1631308100036	Marionette	INFO	Listening on port 32785
+1631308100070	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1631308124454	Marionette	INFO	Stopped listening on port 32785
+JavaScript error: resource:///modules/Interactions.jsm, line 230: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1631308518166	geckodriver	INFO	Listening on 127.0.0.1:57427
+1631308518186	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofileUYuB8B"
+[GFX1-]: glxtest: libEGL missing
+1631308521275	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileUYuB8B/search.json.mozlz4", (void 0)))
+1631308523737	Marionette	INFO	Listening on port 46813
+1631308523831	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1631308576364	Marionette	INFO	Stopped listening on port 46813
+JavaScript error: resource:///modules/Interactions.jsm, line 230: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+1631308580699	geckodriver	INFO	Listening on 127.0.0.1:42897
+1631308580704	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofileiYjy6s"
+[GFX1-]: glxtest: libEGL missing
+1631308583849	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileiYjy6s/search.json.mozlz4", (void 0)))
+1631308586407	Marionette	INFO	Listening on port 32863
+1631308586451	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1631308609262	geckodriver	INFO	Listening on 127.0.0.1:52313
+1631308609267	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofilepE77CU"
+[GFX1-]: glxtest: libEGL missing
+1631308613276	Marionette	INFO	Stopped listening on port 32863
+1631308613299	Marionette	INFO	Marionette enabled
+JavaScript error: resource:///modules/Interactions.jsm, line 230: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilepE77CU/search.json.mozlz4", (void 0)))
+1631308616287	Marionette	INFO	Listening on port 38427
+1631308616370	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1631308637562	Marionette	INFO	Stopped listening on port 38427
+JavaScript error: resource:///modules/Interactions.jsm, line 230: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+1631308680568	geckodriver	INFO	Listening on 127.0.0.1:44421
+1631308680574	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofileJ8sJYj"
+[GFX1-]: glxtest: libEGL missing
+1631308683333	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileJ8sJYj/search.json.mozlz4", (void 0)))
+1631308685535	Marionette	INFO	Listening on port 45155
+1631308685617	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1631308702405	Marionette	INFO	Stopped listening on port 45155
+JavaScript error: resource:///modules/Interactions.jsm, line 230: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+1631308714944	geckodriver	INFO	Listening on 127.0.0.1:54249
+1631308714950	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofilefT1Pqm"
+[GFX1-]: glxtest: libEGL missing
+1631308717419	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilefT1Pqm/search.json.mozlz4", (void 0)))
+1631308719730	Marionette	INFO	Listening on port 44275
+1631308719793	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1631308735732	Marionette	INFO	Stopped listening on port 44275
+JavaScript error: resource:///modules/Interactions.jsm, line 230: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1631308794620	geckodriver	INFO	Listening on 127.0.0.1:32869
+1631308794625	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofilenkgz1t"
+[GFX1-]: glxtest: libEGL missing
+1631308797252	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilenkgz1t/search.json.mozlz4", (void 0)))
+1631308799457	Marionette	INFO	Listening on port 46767
+1631308799590	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1631308823643	Marionette	INFO	Stopped listening on port 46767
+JavaScript error: resource:///modules/Interactions.jsm, line 230: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+1631308858722	geckodriver	INFO	Listening on 127.0.0.1:39125
+1631308858738	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofilegWRE7r"
+[GFX1-]: glxtest: libEGL missing
+1631308861191	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilegWRE7r/search.json.mozlz4", (void 0)))
+1631308862965	Marionette	INFO	Listening on port 43093
+1631308863088	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+
+(firefox:3648): dconf-WARNING **: 22:21:27.530: failed to commit changes to dconf: Error spawning command line “dbus-launch --autolaunch= --binary-syntax --close-stderr”: Child process exited with code 1
+
+(firefox:3648): dconf-WARNING **: 22:21:27.551: failed to commit changes to dconf: Error spawning command line “dbus-launch --autolaunch= --binary-syntax --close-stderr”: Child process exited with code 1
+
+(firefox:3648): dconf-WARNING **: 22:21:27.568: failed to commit changes to dconf: Error spawning command line “dbus-launch --autolaunch= --binary-syntax --close-stderr”: Child process exited with code 1
+
+(firefox:3648): dconf-WARNING **: 22:21:27.585: failed to commit changes to dconf: Error spawning command line “dbus-launch --autolaunch= --binary-syntax --close-stderr”: Child process exited with code 1
+
+(firefox:3648): dconf-WARNING **: 22:21:27.601: failed to commit changes to dconf: Error spawning command line “dbus-launch --autolaunch= --binary-syntax --close-stderr”: Child process exited with code 1
+
+(firefox:3648): dconf-WARNING **: 22:21:27.618: failed to commit changes to dconf: Error spawning command line “dbus-launch --autolaunch= --binary-syntax --close-stderr”: Child process exited with code 1
+
+(firefox:3648): dconf-WARNING **: 22:21:27.634: failed to commit changes to dconf: Error spawning command line “dbus-launch --autolaunch= --binary-syntax --close-stderr”: Child process exited with code 1
+
+(firefox:3648): dconf-WARNING **: 22:21:27.653: failed to commit changes to dconf: Error spawning command line “dbus-launch --autolaunch= --binary-syntax --close-stderr”: Child process exited with code 1
+
+(firefox:3648): dconf-WARNING **: 22:21:27.668: failed to commit changes to dconf: Error spawning command line “dbus-launch --autolaunch= --binary-syntax --close-stderr”: Child process exited with code 1
+
+(firefox:3648): dconf-WARNING **: 22:21:27.685: failed to commit changes to dconf: Error spawning command line “dbus-launch --autolaunch= --binary-syntax --close-stderr”: Child process exited with code 1
+
+(firefox:3648): dconf-WARNING **: 22:21:27.702: failed to commit changes to dconf: Error spawning command line “dbus-launch --autolaunch= --binary-syntax --close-stderr”: Child process exited with code 1
+
+(firefox:3648): dconf-WARNING **: 22:21:27.718: failed to commit changes to dconf: Error spawning command line “dbus-launch --autolaunch= --binary-syntax --close-stderr”: Child process exited with code 1
+
+(firefox:3648): dconf-WARNING **: 22:21:27.734: failed to commit changes to dconf: Error spawning command line “dbus-launch --autolaunch= --binary-syntax --close-stderr”: Child process exited with code 1
+
+(firefox:3648): dconf-WARNING **: 22:21:27.750: failed to commit changes to dconf: Error spawning command line “dbus-launch --autolaunch= --binary-syntax --close-stderr”: Child process exited with code 1
+
+(firefox:3648): dconf-WARNING **: 22:21:27.767: failed to commit changes to dconf: Error spawning command line “dbus-launch --autolaunch= --binary-syntax --close-stderr”: Child process exited with code 1
+
+(firefox:3648): dconf-WARNING **: 22:21:27.785: failed to commit changes to dconf: Error spawning command line “dbus-launch --autolaunch= --binary-syntax --close-stderr”: Child process exited with code 1
+
+(firefox:3648): dconf-WARNING **: 22:21:27.801: failed to commit changes to dconf: Error spawning command line “dbus-launch --autolaunch= --binary-syntax --close-stderr”: Child process exited with code 1
+
+(firefox:3648): dconf-WARNING **: 22:21:28.770: failed to commit changes to dconf: Error spawning command line “dbus-launch --autolaunch= --binary-syntax --close-stderr”: Child process exited with code 1
+
+(firefox:3648): dconf-WARNING **: 22:21:28.803: failed to commit changes to dconf: Error spawning command line “dbus-launch --autolaunch= --binary-syntax --close-stderr”: Child process exited with code 1
+
+(firefox:3648): dconf-WARNING **: 22:21:28.821: failed to commit changes to dconf: Error spawning command line “dbus-launch --autolaunch= --binary-syntax --close-stderr”: Child process exited with code 1
+
+(firefox:3648): dconf-WARNING **: 22:21:28.836: failed to commit changes to dconf: Error spawning command line “dbus-launch --autolaunch= --binary-syntax --close-stderr”: Child process exited with code 1
+
+(firefox:3648): dconf-WARNING **: 22:21:28.853: failed to commit changes to dconf: Error spawning command line “dbus-launch --autolaunch= --binary-syntax --close-stderr”: Child process exited with code 1
+
+(firefox:3648): dconf-WARNING **: 22:21:28.870: failed to commit changes to dconf: Error spawning command line “dbus-launch --autolaunch= --binary-syntax --close-stderr”: Child process exited with code 1
+
+(firefox:3648): dconf-WARNING **: 22:21:28.885: failed to commit changes to dconf: Error spawning command line “dbus-launch --autolaunch= --binary-syntax --close-stderr”: Child process exited with code 1
+
+(firefox:3648): dconf-WARNING **: 22:21:28.901: failed to commit changes to dconf: Error spawning command line “dbus-launch --autolaunch= --binary-syntax --close-stderr”: Child process exited with code 1
+
+(firefox:3648): dconf-WARNING **: 22:21:28.918: failed to commit changes to dconf: Error spawning command line “dbus-launch --autolaunch= --binary-syntax --close-stderr”: Child process exited with code 1
+
+(firefox:3648): dconf-WARNING **: 22:21:28.935: failed to commit changes to dconf: Error spawning command line “dbus-launch --autolaunch= --binary-syntax --close-stderr”: Child process exited with code 1
+
+(firefox:3648): dconf-WARNING **: 22:21:28.951: failed to commit changes to dconf: Error spawning command line “dbus-launch --autolaunch= --binary-syntax --close-stderr”: Child process exited with code 1
+
+(firefox:3648): dconf-WARNING **: 22:21:28.968: failed to commit changes to dconf: Error spawning command line “dbus-launch --autolaunch= --binary-syntax --close-stderr”: Child process exited with code 1
+
+(firefox:3648): dconf-WARNING **: 22:21:28.985: failed to commit changes to dconf: Error spawning command line “dbus-launch --autolaunch= --binary-syntax --close-stderr”: Child process exited with code 1
+
+(firefox:3648): dconf-WARNING **: 22:21:30.895: failed to commit changes to dconf: Error spawning command line “dbus-launch --autolaunch= --binary-syntax --close-stderr”: Child process exited with code 1
+
+(firefox:3648): dconf-WARNING **: 22:21:30.896: failed to commit changes to dconf: Error spawning command line “dbus-launch --autolaunch= --binary-syntax --close-stderr”: Child process exited with code 1
+
+(firefox:3648): dconf-WARNING **: 22:21:31.998: failed to commit changes to dconf: Error spawning command line “dbus-launch --autolaunch= --binary-syntax --close-stderr”: Child process exited with code 1
+
+(firefox:3648): dconf-WARNING **: 22:21:32.024: failed to commit changes to dconf: Error spawning command line “dbus-launch --autolaunch= --binary-syntax --close-stderr”: Child process exited with code 1
+
+(firefox:3648): dconf-WARNING **: 22:21:32.039: failed to commit changes to dconf: Error spawning command line “dbus-launch --autolaunch= --binary-syntax --close-stderr”: Child process exited with code 1
+
+(firefox:3648): dconf-WARNING **: 22:21:32.056: failed to commit changes to dconf: Error spawning command line “dbus-launch --autolaunch= --binary-syntax --close-stderr”: Child process exited with code 1
+
+(firefox:3648): dconf-WARNING **: 22:21:32.073: failed to commit changes to dconf: Error spawning command line “dbus-launch --autolaunch= --binary-syntax --close-stderr”: Child process exited with code 1
+
+(firefox:3648): dconf-WARNING **: 22:21:32.089: failed to commit changes to dconf: Error spawning command line “dbus-launch --autolaunch= --binary-syntax --close-stderr”: Child process exited with code 1
+
+(firefox:3648): dconf-WARNING **: 22:21:32.107: failed to commit changes to dconf: Error spawning command line “dbus-launch --autolaunch= --binary-syntax --close-stderr”: Child process exited with code 1
+
+(firefox:3648): dconf-WARNING **: 22:21:32.124: failed to commit changes to dconf: Error spawning command line “dbus-launch --autolaunch= --binary-syntax --close-stderr”: Child process exited with code 1
+
+(firefox:3648): dconf-WARNING **: 22:21:32.139: failed to commit changes to dconf: Error spawning command line “dbus-launch --autolaunch= --binary-syntax --close-stderr”: Child process exited with code 1
+
+(firefox:3648): dconf-WARNING **: 22:21:32.156: failed to commit changes to dconf: Error spawning command line “dbus-launch --autolaunch= --binary-syntax --close-stderr”: Child process exited with code 1
+
+(firefox:3648): dconf-WARNING **: 22:21:32.174: failed to commit changes to dconf: Error spawning command line “dbus-launch --autolaunch= --binary-syntax --close-stderr”: Child process exited with code 1
+
+(firefox:3648): dconf-WARNING **: 22:21:32.191: failed to commit changes to dconf: Error spawning command line “dbus-launch --autolaunch= --binary-syntax --close-stderr”: Child process exited with code 1
+
+(firefox:3648): dconf-WARNING **: 22:21:32.207: failed to commit changes to dconf: Error spawning command line “dbus-launch --autolaunch= --binary-syntax --close-stderr”: Child process exited with code 1
+
+(firefox:3648): dconf-WARNING **: 22:21:32.222: failed to commit changes to dconf: Error spawning command line “dbus-launch --autolaunch= --binary-syntax --close-stderr”: Child process exited with code 1
+
+(firefox:3648): dconf-WARNING **: 22:21:32.238: failed to commit changes to dconf: Error spawning command line “dbus-launch --autolaunch= --binary-syntax --close-stderr”: Child process exited with code 1
+
+(firefox:3648): dconf-WARNING **: 22:21:32.256: failed to commit changes to dconf: Error spawning command line “dbus-launch --autolaunch= --binary-syntax --close-stderr”: Child process exited with code 1
+
+(firefox:3648): dconf-WARNING **: 22:21:32.271: failed to commit changes to dconf: Error spawning command line “dbus-launch --autolaunch= --binary-syntax --close-stderr”: Child process exited with code 1
+1631308892512	Marionette	INFO	Stopped listening on port 43093
+
+(firefox:3648): dconf-WARNING **: 22:21:32.663: failed to commit changes to dconf: Error spawning command line “dbus-launch --autolaunch= --binary-syntax --close-stderr”: Child process exited with code 1
+
+(firefox:3648): dconf-WARNING **: 22:21:32.664: failed to commit changes to dconf: Error spawning command line “dbus-launch --autolaunch= --binary-syntax --close-stderr”: Child process exited with code 1
+JavaScript error: resource:///modules/Interactions.jsm, line 230: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1631309047458	geckodriver	INFO	Listening on 127.0.0.1:47769
+1631309047477	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofilekhI1P7"
+[GFX1-]: glxtest: libEGL missing
+1631309050331	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilekhI1P7/search.json.mozlz4", (void 0)))
+1631309052283	Marionette	INFO	Listening on port 38795
+1631309052308	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1631309190826	geckodriver	INFO	Listening on 127.0.0.1:49609
+1631309190832	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofileUmxIdu"
+[GFX1-]: glxtest: libEGL missing
+1631309194597	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileUmxIdu/search.json.mozlz4", (void 0)))
+1631309197297	Marionette	INFO	Listening on port 35125
+1631309197376	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1631309305814	Marionette	INFO	Stopped listening on port 38795
+1631309305819	Marionette	INFO	Stopped listening on port 35125
+JavaScript error: resource:///modules/Interactions.jsm, line 230: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+JavaScript error: resource:///modules/Interactions.jsm, line 230: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1631309521709	geckodriver	INFO	Listening on 127.0.0.1:41247
+1631309521713	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofile3enGdm"
+[GFX1-]: glxtest: libEGL missing
+1631309524084	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile3enGdm/search.json.mozlz4", (void 0)))
+1631309525509	Marionette	INFO	Listening on port 43035
+1631309525660	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1631309549976	Marionette	INFO	Stopped listening on port 43035
+JavaScript error: resource:///modules/Interactions.jsm, line 230: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1631309647933	geckodriver	INFO	Listening on 127.0.0.1:52067
+1631309647938	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofilelC28XK"
+[GFX1-]: glxtest: libEGL missing
+1631309650368	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilelC28XK/search.json.mozlz4", (void 0)))
+1631309652441	Marionette	INFO	Listening on port 46615
+1631309652468	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1631309672549	Marionette	INFO	Stopped listening on port 46615
+JavaScript error: resource:///modules/Interactions.jsm, line 230: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1631309689796	geckodriver	INFO	Listening on 127.0.0.1:48559
+1631309689801	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofiley6xg3e"
+[GFX1-]: glxtest: libEGL missing
+1631309692152	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofiley6xg3e/search.json.mozlz4", (void 0)))
+1631309694025	Marionette	INFO	Listening on port 35621
+1631309694138	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1631309714803	Marionette	INFO	Stopped listening on port 35621
+JavaScript error: resource:///modules/Interactions.jsm, line 230: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+1631309725220	geckodriver	INFO	Listening on 127.0.0.1:41865
+1631309725225	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofile2KcZ20"
+[GFX1-]: glxtest: libEGL missing
+1631309728160	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile2KcZ20/search.json.mozlz4", (void 0)))
+1631309729978	Marionette	INFO	Listening on port 44299
+1631309730058	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1631309749948	Marionette	INFO	Stopped listening on port 44299
+JavaScript error: resource:///modules/Interactions.jsm, line 230: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+1631309772765	geckodriver	INFO	Listening on 127.0.0.1:33043
+1631309772770	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofileQ2pPUA"
+[GFX1-]: glxtest: libEGL missing
+1631309775410	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileQ2pPUA/search.json.mozlz4", (void 0)))
+1631309776927	Marionette	INFO	Listening on port 38313
+1631309777020	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1631309794300	Marionette	INFO	Stopped listening on port 38313
+JavaScript error: resource:///modules/Interactions.jsm, line 230: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1631309885676	geckodriver	INFO	Listening on 127.0.0.1:58995
+1631309885681	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofilezDLfcR"
+[GFX1-]: glxtest: libEGL missing
+1631309888445	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilezDLfcR/search.json.mozlz4", (void 0)))
+1631309890135	Marionette	INFO	Listening on port 46009
+1631309890210	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1631309914157	Marionette	INFO	Stopped listening on port 46009
+JavaScript error: resource:///modules/Interactions.jsm, line 230: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+1631310006594	geckodriver	INFO	Listening on 127.0.0.1:34495
+1631310006599	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofile5dnND5"
+[GFX1-]: glxtest: libEGL missing
+1631310009269	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile5dnND5/search.json.mozlz4", (void 0)))
+1631310011155	Marionette	INFO	Listening on port 44611
+1631310011282	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1631310033472	Marionette	INFO	Stopped listening on port 44611
+JavaScript error: resource:///modules/Interactions.jsm, line 230: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1631310240482	geckodriver	INFO	Listening on 127.0.0.1:52485
+1631310240487	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofilea7yTlJ"
+[GFX1-]: glxtest: libEGL missing
+1631310243175	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilea7yTlJ/search.json.mozlz4", (void 0)))
+1631310244580	Marionette	INFO	Listening on port 44151
+1631310244682	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1631310265127	Marionette	INFO	Stopped listening on port 44151
+JavaScript error: resource:///modules/Interactions.jsm, line 230: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1631311459336	geckodriver	INFO	Listening on 127.0.0.1:44031
+1631311459341	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "-no-remote" "-profile" "/tmp/rust_mozprofileaBxE5p"
+*** You are running in headless mode.
+[GFX1-]: glxtest: libEGL missing
+1631311461751	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileaBxE5p/search.json.mozlz4", (void 0)))
+1631311463776	Marionette	INFO	Listening on port 39075
+1631311463879	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1631311483518	Marionette	INFO	Stopped listening on port 39075
+JavaScript error: resource:///modules/Interactions.jsm, line 230: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+1631312213137	geckodriver	INFO	Listening on 127.0.0.1:58273
+1631312213142	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "-no-remote" "-profile" "/tmp/rust_mozprofileEj7990"
+*** You are running in headless mode.
+[GFX1-]: glxtest: libEGL missing
+1631312215728	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileEj7990/search.json.mozlz4", (void 0)))
+1631312217195	Marionette	INFO	Listening on port 38639
+1631312217378	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1631312300426	geckodriver	INFO	Listening on 127.0.0.1:53149
+1631312300431	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofileMHjZFs"
+[GFX1-]: glxtest: libEGL missing
+1631312303210	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileMHjZFs/search.json.mozlz4", (void 0)))
+1631312305366	Marionette	INFO	Listening on port 46691
+1631312305518	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: InvalidStateError: A mutation operation was attempted on a database that did not allow mutations.
+1631312522186	geckodriver	INFO	Listening on 127.0.0.1:40291
+1631312522190	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofilejhm3G3"
+[GFX1-]: glxtest: libEGL missing
+1631312524730	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilejhm3G3/search.json.mozlz4", (void 0)))
+1631312526545	Marionette	INFO	Listening on port 34245
+1631312526621	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+1631312614956	geckodriver	INFO	Listening on 127.0.0.1:33973
+1631312614961	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofilegoFJ6H"
+[GFX1-]: glxtest: libEGL missing
+1631312617386	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilegoFJ6H/search.json.mozlz4", (void 0)))
+1631312619404	Marionette	INFO	Listening on port 46627
+1631312619559	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1631312670286	geckodriver	INFO	Listening on 127.0.0.1:36461
+1631312670291	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofileKNDCmt"
+[GFX1-]: glxtest: libEGL missing
+1631312672996	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileKNDCmt/search.json.mozlz4", (void 0)))
+1631312675013	Marionette	INFO	Listening on port 35813
+1631312675120	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+1631312756442	geckodriver	INFO	Listening on 127.0.0.1:45077
+1631312756447	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofile0Wkvcg"
+[GFX1-]: glxtest: libEGL missing
+1631312759174	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile0Wkvcg/search.json.mozlz4", (void 0)))
+1631312760751	Marionette	INFO	Listening on port 39133
+1631312760866	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1631312840757	geckodriver	INFO	Listening on 127.0.0.1:58251
+1631312840762	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofileHWXDqo"
+1631312840907	Marionette	INFO	Stopped listening on port 46691
+JavaScript error: resource:///modules/Interactions.jsm, line 230: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[GFX1-]: glxtest: libEGL missing
+1631312843570	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileHWXDqo/search.json.mozlz4", (void 0)))
+1631312845537	Marionette	INFO	Listening on port 45963
+1631312845597	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: chrome://global/content/elements/browser-custom-element.js, line 1631: Error: permitUnload is already running for this tab.
+1631312870887	Marionette	INFO	Stopped listening on port 35813
+1631312870894	Marionette	INFO	Stopped listening on port 39133
+JavaScript error: chrome://global/content/elements/browser-custom-element.js, line 1631: Error: permitUnload is already running for this tab.
+JavaScript error: chrome://global/content/elements/browser-custom-element.js, line 1631: Error: permitUnload is already running for this tab.
+JavaScript error: chrome://browser/content/browser.js, line 8036: uncaught exception: undefined
+JavaScript error: resource:///modules/Interactions.jsm, line 230: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+JavaScript error: resource:///modules/Interactions.jsm, line 230: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1631312874901	Marionette	INFO	Stopped listening on port 45963
+1631312874902	Marionette	INFO	Stopped listening on port 34245
+1631312874903	Marionette	INFO	Stopped listening on port 46627
+JavaScript error: resource:///modules/Interactions.jsm, line 230: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+JavaScript error: resource:///modules/Interactions.jsm, line 230: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+JavaScript error: resource:///modules/Interactions.jsm, line 230: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1631312974360	geckodriver	INFO	Listening on 127.0.0.1:49657
+1631312974366	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofileEAmlFQ"
+[GFX1-]: glxtest: libEGL missing
+1631312976591	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileEAmlFQ/search.json.mozlz4", (void 0)))
+1631312978084	Marionette	INFO	Listening on port 34051
+1631312978217	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1631313025692	geckodriver	INFO	Listening on 127.0.0.1:57227
+1631313025698	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofileBEbIq1"
+1631313025832	Marionette	INFO	Stopped listening on port 34051
+JavaScript error: resource:///modules/Interactions.jsm, line 230: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[GFX1-]: glxtest: libEGL missing
+1631313028041	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileBEbIq1/search.json.mozlz4", (void 0)))
+1631313029921	Marionette	INFO	Listening on port 45283
+1631313030048	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1631313092810	geckodriver	INFO	Listening on 127.0.0.1:43305
+1631313092815	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofileUdDnLb"
+[GFX1-]: glxtest: libEGL missing
+1631313094823	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileUdDnLb/search.json.mozlz4", (void 0)))
+1631313096227	Marionette	INFO	Listening on port 41437
+1631313096348	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1631313184426	geckodriver	INFO	Listening on 127.0.0.1:44825
+1631313184431	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofile00vgtW"
+[GFX1-]: glxtest: libEGL missing
+1631313186881	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile00vgtW/search.json.mozlz4", (void 0)))
+1631313188517	Marionette	INFO	Listening on port 40379
+1631313188560	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1631313260913	Marionette	INFO	Stopped listening on port 45283
+JavaScript error: resource:///modules/Interactions.jsm, line 230: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+1631313748828	geckodriver	INFO	Listening on 127.0.0.1:44037
+1631313748834	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofilenpQjH6"
+JavaScript error: chrome://global/content/elements/browser-custom-element.js, line 1631: Error: permitUnload is already running for this tab.
+JavaScript error: chrome://global/content/elements/browser-custom-element.js, line 1631: Error: permitUnload is already running for this tab.
+1631313748978	Marionette	INFO	Stopped listening on port 41437
+JavaScript error: chrome://global/content/elements/browser-custom-element.js, line 1631: Error: permitUnload is already running for this tab.
+JavaScript error: chrome://global/content/elements/browser-custom-element.js, line 1631: Error: permitUnload is already running for this tab.
+JavaScript error: chrome://global/content/elements/browser-custom-element.js, line 1631: Error: permitUnload is already running for this tab.
+1631313748983	Marionette	INFO	Stopped listening on port 40379
+JavaScript error: chrome://browser/content/browser.js, line 8036: uncaught exception: undefined
+JavaScript error: chrome://global/content/elements/browser-custom-element.js, line 1631: Error: permitUnload is already running for this tab.
+JavaScript error: chrome://global/content/elements/browser-custom-element.js, line 1631: Error: permitUnload is already running for this tab.
+JavaScript error: chrome://global/content/elements/browser-custom-element.js, line 1631: Error: permitUnload is already running for this tab.
+JavaScript error: chrome://browser/content/browser.js, line 8036: uncaught exception: undefined
+JavaScript error: resource:///modules/Interactions.jsm, line 230: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+JavaScript error: resource:///modules/Interactions.jsm, line 230: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+[GFX1-]: glxtest: libEGL missing
+1631313751559	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilenpQjH6/search.json.mozlz4", (void 0)))
+1631313753351	Marionette	INFO	Listening on port 43921
+1631313753475	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1631313778293	geckodriver	INFO	Listening on 127.0.0.1:50635
+1631313778298	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofileyj0tCG"
+[GFX1-]: glxtest: libEGL missing
+1631313780921	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileyj0tCG/search.json.mozlz4", (void 0)))
+1631313782993	Marionette	INFO	Listening on port 33781
+1631313783067	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1631313787744	Marionette	INFO	Stopped listening on port 33781
+JavaScript error: resource:///modules/Interactions.jsm, line 230: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+1631313887855	geckodriver	INFO	Listening on 127.0.0.1:34885
+1631313887860	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "-no-remote" "-profile" "/tmp/rust_mozprofile0TYHPD"
+*** You are running in headless mode.
+[GFX1-]: glxtest: libEGL missing
+1631313890098	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile0TYHPD/search.json.mozlz4", (void 0)))
+1631313891371	Marionette	INFO	Listening on port 41809
+1631313891569	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1631313898463	Marionette	INFO	Stopped listening on port 41809
+JavaScript error: resource:///modules/Interactions.jsm, line 230: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
